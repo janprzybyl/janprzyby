@@ -1,5 +1,6 @@
-### Hi there, I'm Kamil 👋
+### Hi there
 
+I'm Kamil 👋
 <!--
 this is comment
 -->
